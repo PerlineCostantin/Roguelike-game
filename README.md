@@ -12,20 +12,20 @@ Promotion 2022-2023
 
 COMMENT JOUER ?  
 
-ATTENTION : On doit appuyer 2 fois une touche pour effectuer l’action associée
-z : Se déplacer en haut
-q : Se déplacer à gauche
-s : Se déplacer en bas
-d : Se déplacer à droite
-c : Se déplacer en diagonale en haut à droite
-w : Se déplacer en diagonale en bas à gauche
-e :  Se déplacer en diagonale en bas à droite
-a : Se déplacer en diagonale en haut à gauche
-h : Afficher les actions disponibles
-r : Se reposer 
-i :  Afficher la description du héros
-u : Accéder à l’inventaire 
-t : Jeter un objet 
-k : Se suicider (Game over)
-Space : Passer un tour
+ATTENTION : On doit appuyer 2 fois une touche pour effectuer l’action associée  
+z : Se déplacer en haut  
+q : Se déplacer à gauche  
+s : Se déplacer en bas  
+d : Se déplacer à droite  
+c : Se déplacer en diagonale en haut à droite  
+w : Se déplacer en diagonale en bas à gauche  
+e :  Se déplacer en diagonale en bas à droite  
+a : Se déplacer en diagonale en haut à gauche  
+h : Afficher les actions disponibles  
+r : Se reposer  
+i :  Afficher la description du héros  
+u : Accéder à l’inventaire  
+t : Jeter un objet  
+k : Se suicider (Game over)  
+Space : Passer un tour  
 
