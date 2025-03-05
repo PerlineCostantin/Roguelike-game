@@ -4,9 +4,13 @@ Projet de groupe (1ère année de PeiP) : création d'un jeu rogue-like en Pytho
 Rogue
 
 BALESTRA Valentina
+
 COSTANTIN Perline 
+
 ZAOUN Eya
+
 PeiP1 Groupe1
+
 Promotion 2022-2023
 
 •	Pour lancer le jeu : ouvrir un terminal puis taper la commande python3 main.py
