@@ -4,9 +4,7 @@ Projet de groupe (1ère année de PeiP) : création d'un jeu rogue-like en Pytho
 Rogue
 
 BALESTRA Valentina
-
 COSTANTIN Perline 
-
 ZAOUN Eya
 
 PeiP1 Groupe1
